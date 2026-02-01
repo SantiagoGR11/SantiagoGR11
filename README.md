@@ -11,7 +11,7 @@
 I am currently in my third year of a Physics degree at the University of Oviedo, with a strong interest in astrophysics and the application of computational methods to scientific research.
 
 My projects focus on:
-- **Data Analysis** of astronomical datasets
+- **Data Analysis** of datasets
 - **Numerical Simulations** for physical systems
 - **3D Animations** for scientific visualization
 
