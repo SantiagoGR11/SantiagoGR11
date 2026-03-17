@@ -22,8 +22,7 @@ Currently learning:
 ---
 
 ## 🎯 Next Steps
-- **Bachelor’s Thesis**: Developing a software tool to act as a first filter for celestial bodies, helping discard irrelevant objects for telescope observation.
-- **Future Goal**: Pursue a Master’s in Astrophysics abroad (target: Heidelberg University, DAAD program) and build a career in scientific research.
+- **Future Goal**: Pursue a Master’s in Astrophysics abroad and build a career in scientific research.
 
 ---
 
